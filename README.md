@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm yash Makwana 👋
 ### 🚀 Frontend / Full-Stack Website Developer
 
 A passionate website developer dedicated to building fast, responsive, and visually stunning web experiences. I love turning complex problems into clean, efficient, and maintainable code.
